@@ -1,5 +1,5 @@
 ## 记录自己leetcode 刷题
-clone后可根据题号查找对应题目讲解
+**clone后可根据题号查找对应题目讲解**
 
 ### 141 链表是否有环
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushinghttps://github.com/shubenwuming/leetcode-brushing)  
@@ -13,4 +13,4 @@ b站视频：[https://www.bilibili.com/video/BV1Lv411M7hx?spm_id_from=333.999.0.
 
 ### 202 快乐数
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushinghttps://github.com/shubenwuming/leetcode-brushing)     
-掘金地址： [hhttps://juejin.cn/post/7027703111468711973/](hhttps://juejin.cn/post/7027703111468711973/)  
+掘金地址： [https://juejin.cn/post/7027703111468711973/](https://juejin.cn/post/7027703111468711973/)  
