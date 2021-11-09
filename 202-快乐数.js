@@ -11,12 +11,14 @@
  var isHappy = function(n) {
   let s = n;
   let f = n;
-  do {
+
+ while(f !== 1 && getSquareSum(f) !== 1) {
     s = getSquareSum(s);
     f = getSquareSum(getSquareSum(f));
-    if(f == 1) return true;
-  } while(s !== f && f !== 1)
-  return false;
+    if(s === f) return false;
+  }
+  
+  return true;
 };
 
 function getSquareSum(n) {
