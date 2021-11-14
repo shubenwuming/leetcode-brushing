@@ -14,3 +14,7 @@ b站视频：[https://www.bilibili.com/video/BV1Lv411M7hx?spm_id_from=333.999.0.
 ### 202 快乐数
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushinghttps://github.com/shubenwuming/leetcode-brushing)     
 掘金地址： [https://juejin.cn/post/7027703111468711973/](https://juejin.cn/post/7027703111468711973/)  
+
+### 206 反转链表
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushinghttps://github.com/shubenwuming/leetcode-brushing)        
+掘金地址：[https://juejin.cn/post/7029582199611621413](https://juejin.cn/post/7029582199611621413)  
