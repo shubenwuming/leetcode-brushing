@@ -60,3 +60,25 @@ let reverseList = function (head) {
   return newHead;
 }
 
+// 解法三、栈
+let reverseList = function (head) {
+  const vitualHead = new ListNode(-1)
+  let p = vitualHead
+
+  const stack = []
+
+  while(head !== null) {
+    stack.push(head)
+    head = head.next
+  }
+
+  while(stack.length > 0) {
+    const node = stack.pop()
+    p.next = node
+    node.next = null
+    p = p.next
+  }
+
+  return vitualHead.next
+}
+
