@@ -38,3 +38,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 9 回文数
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7035502721411055623](https://juejin.cn/post/7035502721411055623)
+
+### 226 回文数
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7035538345337815076](https://juejin.cn/post/7035538345337815076)
