@@ -42,3 +42,11 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 226 翻转二叉树
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7035538345337815076](https://juejin.cn/post/7035538345337815076)
+
+### 160 相交链表
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7035928519712440334](https://juejin.cn/post/7035928519712440334)
+
+### 61 旋转链表
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7036227029255061517](https://juejin.cn/post/7036227029255061517)
