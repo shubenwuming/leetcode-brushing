@@ -50,3 +50,8 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 61 旋转链表
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7036227029255061517](https://juejin.cn/post/7036227029255061517)
+
+### 25 K个一组翻转链表
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7037102796327354398](https://juejin.cn/post/7037102796327354398)
+
