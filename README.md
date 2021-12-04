@@ -65,4 +65,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 83 删除排序链表中的重复元素
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7037730787172548621](https://juejin.cn/post/7037730787172548621)
+### 82 删除排序链表中的重复元素II
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7037840595598966791](https://juejin.cn/post/7037840595598966791)
 
