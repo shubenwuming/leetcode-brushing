@@ -62,9 +62,11 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 19 删除链表的倒数第N个节点
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7037486151912914951](https://juejin.cn/post/7037486151912914951)
+
 ### 83 删除排序链表中的重复元素
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7037730787172548621](https://juejin.cn/post/7037730787172548621)
+
 ### 82 删除排序链表中的重复元素II
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7037840595598966791](https://juejin.cn/post/7037840595598966791)
@@ -76,4 +78,8 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 138 复制带随机指针的链表
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7038574569950543903](https://juejin.cn/post/7038574569950543903)
+
+### 622 设计循环队列
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7039250967900094472](https://juejin.cn/post/7039250967900094472)
 
