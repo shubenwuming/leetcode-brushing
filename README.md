@@ -91,3 +91,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7039975752887975972](https://juejin.cn/post/7039975752887975972)
 
+### 1670 设计前中后队列
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7040115408757587981](https://juejin.cn/post/7040115408757587981)
+
