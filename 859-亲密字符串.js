@@ -55,7 +55,7 @@
       }
     }
 
-    // 到了这里说明只有两个位置的字符是不同的
+    // 到了这里说明只有两个位置的字符是不同的, 在判断交叉是否相等
     return s[first] === goal[second] && s[second] === goal[first]
 
   }
