@@ -114,3 +114,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 969 煎饼排序
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040780361097281543](https://juejin.cn/post/7040780361097281543)
+
+### 621 任务调度器
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7040828414281908238](https://juejin.cn/post/7040828414281908238)
