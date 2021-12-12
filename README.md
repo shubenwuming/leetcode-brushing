@@ -110,3 +110,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 860 柠檬水找零
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7040696277285224485](https://juejin.cn/post/7040696277285224485)
+
+### 969 煎饼排序
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7040780361097281543](https://juejin.cn/post/7040780361097281543)
