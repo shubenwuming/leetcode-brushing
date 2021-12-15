@@ -122,3 +122,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 面试题03.04. 化栈为队
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7041775408701767694](https://juejin.cn/post/7041775408701767694)
+
+### 682 棒球比赛 
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7041783355913797662](https://juejin.cn/post/7041783355913797662)
