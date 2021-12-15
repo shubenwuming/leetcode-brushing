@@ -131,3 +131,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7041795308631621663](https://juejin.cn/post/7041795308631621663)
 
+### 946 验证栈序列
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7041843330237333535](https://juejin.cn/post/7041843330237333535)
+
