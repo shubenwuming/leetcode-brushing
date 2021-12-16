@@ -139,3 +139,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7042157689505316901](https://juejin.cn/post/7042157689505316901)
 
+### 1249 删除无效的括号
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042175736265834509](https://juejin.cn/post/7042175736265834509)
+
