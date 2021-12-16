@@ -135,3 +135,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7041843330237333535](https://juejin.cn/post/7041843330237333535)
 
+### 1021 删除最外层括号
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042157689505316901](https://juejin.cn/post/7042157689505316901)
+
