@@ -25,7 +25,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 
 ### 144 二叉树前序遍历
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
-掘金地址：[https://juejin.cn/post/7034046812533030942](https://juejin.cn/post/7034046812533030942)
+掘金地址：[https://juejin.cn/post/7034046812533030942](https://juejin.cn/post/7034046812533030942)、[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
 
 ### 21 合并两个有序链表 
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
@@ -143,6 +143,14 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7042175736265834509](https://juejin.cn/post/7042175736265834509)
 
-### 1249 删除无效的括号
+### 94 二叉树中序遍历
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
+
+### 145 二叉树后序遍历
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7042560119111942180](https://juejin.cn/post/7042560119111942180)
+
+### 331 验证二叉树的前序序列化
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7044019991603052574](https://juejin.cn/post/7044019991603052574)
