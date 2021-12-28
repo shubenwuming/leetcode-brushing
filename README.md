@@ -158,3 +158,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 227 基本计算器Ⅱ
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7046354106180435975](https://juejin.cn/post/7046354106180435975)
+
+### 636 函数的独占时间
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7046647308716343332](https://juejin.cn/post/7046647308716343332)
