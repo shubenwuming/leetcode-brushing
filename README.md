@@ -162,3 +162,7 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 636 函数的独占时间
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7046647308716343332](https://juejin.cn/post/7046647308716343332)
+
+### 1224 表现良好的最长时间段
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7047083537148690439](https://juejin.cn/post/7047083537148690439)
