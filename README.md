@@ -166,3 +166,8 @@ git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.c
 ### 1224 表现良好的最长时间段
 git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
 掘金地址：[https://juejin.cn/post/7047083537148690439](https://juejin.cn/post/7047083537148690439)
+
+
+### 589 N叉树的前序遍历
+git地址：[https://github.com/shubenwuming/leetcode-brushing](https://github.com/shubenwuming/leetcode-brushing)  
+掘金地址：[https://juejin.cn/post/7047763046978027527](https://juejin.cn/post/7047763046978027527)
