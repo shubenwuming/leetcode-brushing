@@ -4,13 +4,6 @@
  */
 
 /**
- * 思路：递归
- * 递归函数的意义：
- * 边界条件：
- * 递归过程：
- */
-
-/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)
